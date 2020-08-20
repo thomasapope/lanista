@@ -5,4 +5,4 @@ A deckbuilding card game about training gladiators to fight in the roman arena a
 
 ## Software
 Art: Krita
-Layout and printing: Inkscape with the (countersheet extension)[https://github.com/lifelike/countersheetsextension]
+Layout and printing: Inkscape with the [countersheet extension](https://github.com/lifelike/countersheetsextension)
