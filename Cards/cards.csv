@@ -1,0 +1,78 @@
+unit,name,image,cost,type,description,style,power,id,set,goldimage,powerbox[style:opacity]
+28,Servus,person.png,0,blue.png, +1 gold,,,0,a1,gold.png,0
+12,Tiro,combatant.png,0,orange.png,,neutral.png,1,1,a1,gold.png,
+10,Lanista,person.png,2,blue.png, +2 gold,,,2,a1,gold.png,0
+3,Rudiarius,combatant.png,3,orange.png, +1 gold,neutral.png,2,3,a1,gold.png,
+1,Munerarius,person.png,6,blue.png, +3 gold,,,4,a1,gold.png,0
+2,Retiarius,retiarius.png,2,orange.png,Draw a card when played.,spear.png,2,5,a1,gold.png,
+2,Hoplomachus,hoplomachus.png,4,orange.png,May fight once with a spear each time in the arena.,sword.png,3,6,a1,gold.png,
+2,Secutor,secutor.png,3,orange.png,,sword.png,3,7,a1,gold.png,
+2,Sagittarius,sagittarius.png,2,orange.png,,bow.png,3,8,a1,gold.png,
+2,Eques,eques.png,4,orange.png,"If Eques is in the arena at the start of your turn, draw a card.",horse.png,3,9,a1,gold.png,
+2,Essendarius,essendarius.png,5,orange.png,Strong against all foot combatants.,horse.png,4,10,a1,gold.png,
+2,Bestiarius,combatant.png,3,orange.png,Strong against beasts.,spear.png,3,11,a1,gold.png,
+2,Venator,combatant.png,5,orange.png,"Strong against beasts.
+\n \n
+Draw a card.",bow.png,3,12,a1,gold.png,
+1,Crupellarius,crupellarius.png,6,orange.png,Can only deal damage to one combatant in a single fight.,sword.png,7,13,a1,gold.png,
+3,Noxii,combatant.png,1,orange.png," +2 gold when played. \n
+If defeated, you lose 2 fame.",neutral.png,2,14,a1,gold.png,
+2,Duellum,noimage.png,3,blue.png,"Pick any two combatants in the arena. They must fight.
+\n \n
+No rewards or penalties are dealt.",,,15,a1,gold.png,0
+1,Ludus Maximus,noimage.png,5,blue.png,Every player must play a combatant. The highest combatant stays in the arena. All other are discarded.,,,16,a1,gold.png,0
+2,Forum,noimage.png,3,blue.png,Draw  cards and then discard 1 card.,,,17,a1,gold.png,0
+1,Pompa,noimage.png,6,blue.png," +3 fame \n 
+ +2 cards \n \n The start of the games was often signaled by an extravagant parade.",,,18,a1,gold.png,0
+2,Recipere ferrum,noimage.png,4,blue.png,"Place on a player owned combatant. When that combatant is defeated, trash this card and the combatant.
+\n \n
+Combatants who were refused missio were expected to courageously accept death.",,,19,,gold.png,0
+2,Stans Missus,noimage.png,4,blue.png,Play during combat with enemy combatants. You may remove your combatants from the area without rewards or penalties being dealt.,,,20,a1,gold.png,0
+1,Stantes Missi,noimage.png,6,blue.png,Play during combat with enemy combatants. All combatants involved are removed from the arena and no rewards or penalties are dealt.,,,21,a1,gold.png,0
+2,Liberatio,noimage.png,4,blue.png,Trash a combatant to gain +3 gold.,,,22,a1,gold.png,0
+2,Familia Gladitorum,noimage.png,4,blue.png,"If you played 3 combatants this turn, +3 fame.
+\n \n 
+Gladiators were organized into close knit groups that ate, slept, and trained together.",,,23,a1,gold.png,0
+2,People's Favorite,noimage.png,4,blue.png,Place on a player owned combatant. Defeating that combatant card costs 2 fame.,,,24,a1,gold.png,0
+2,Wanted Man,noimage.png,,blue.png,Place on a player owned combatant. Defeating that combatant grants 2 gold.,,,25,a1,gold.png,
+2,New recruits,noimage.png,4,blue.png, +2 cards,,,26,a1,gold.png,0
+1,Et Tu?,noimage.png,3,blue.png,Play when attacking enemy combatants with four or more combatants. Target enemy combatant is killed and none of your combatants are injured.,,,27,a1,gold.png,0
+3,A Well Deserved Rest,noimage.png,3,blue.png," +2 gold \n
+You may remove one of your combatants from the arena.",,,28,a1,gold.png,0
+2,Last Stand,noimage.png,4,blue.png,"Until the end of the turn, add 2 power to a player controlled combatant.",,,29,a1,gold.png,0
+1,Grand Exchange,noimage.png,6,blue.png, +3 cards,,,30,a1,gold.png,0
+1,Vitula Eligans,cow.png,2,blue.png,"Use a cow as a distraction. During a fight, combatants must attack the cow first.
+\n \n The cow does not deal damage.",horse.png,3,31,a1,gold.png,
+3,Hyaena,hyena.png,,power.png,"Gains +1 power for every other beast in the arena. \n
++1 fame",animal.png,2,32,a1,,
+2,Leo,lion.png,,power.png," +2 gold \n
+ +2 fame",animal.png,4,33,a1,,
+1,Rhinoceros,rhino.png,,power.png,"Cannot be hurt by ranged units.
+\n \n
++ 2 cards \n
+All opponents discard a card",horse.png,6,34,a1,,
+2,Magnum Ursus,bear.png,,power.png,"Has no weaknesses.
+\n \n
+ +4 fame",animal.png,4,35,a1,,
+1,Elephantus,elephant.png,,power.png," +4 gold \n
+ +3 fame",horse.png,7,36,a1,,
+1,Commodus,combatant.png,,power.png," +5 fame \n
+You may acquire or defeat any card on the center row for free.",sword.png,7,37,a1,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Lupus,wolf.png,,power.png," +1 gold \n
+ +1 fame",animal.png,3,0,a1,,
